@@ -7,3 +7,4 @@ Inside the numbered folders there are practical examples of the lesson from the 
 In the random practices there are random creative practices made based on the examples folder or the book
 Each folder contains its binaries  
 
+
